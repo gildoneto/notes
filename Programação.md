@@ -4,4 +4,7 @@
 - [[Keywords]]
 - [[Variáveis]]
 - [[Tipos de dados]]
-- [[Operações Aritméticas]]
+- [[Operação Aritmética]]
+- [[Overflow]]
+- [[Classe]]
+- [[Wrapper Class]]

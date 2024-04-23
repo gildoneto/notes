@@ -1,0 +1,1 @@
+A class is a building block for object-oriented programming, and allow us to build custom data types.
